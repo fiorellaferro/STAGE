@@ -24,11 +24,11 @@ Somos estudiantes de Ingenieria Biomedica PUCP-UPCH, del curso "Procesos de inno
 
 - Guiar al equipo y organizarnos
 
-3) Fiorela Suarez
+3) Fiorella Suarez Ferro
 
 **Edad**: 19
 
-**Pasatiempo**: Ver series, caminatas. Practicar natacion y muay thai
+**Pasatiempo**: Ver anime, leer mangas, dar largos paseos 
 
 **rol**: Consejera
 
