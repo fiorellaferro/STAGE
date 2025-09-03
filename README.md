@@ -25,10 +25,11 @@ Somos estudiantes de Ingenieria Biomedica PUCP-UPCH, del curso "Procesos de inno
 - Guiar al equipo y organizarnos
 
 3) Fiorela Suarez
+   
 
 **Edad**: 19
 
-**Pasatiempo**: Ver series, caminatas. Practicar natacion y muay thai
+**Pasatiempo**: Ver series, dar caminatas extensas y escuchar musica 
 
 **rol**: Consejera
 
